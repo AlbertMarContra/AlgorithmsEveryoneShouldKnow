@@ -9,6 +9,7 @@ namespace Algorithms
         {
             var selectedPoss = -1;
 
+            // Commit samm
 
             // Menu
             Console.WriteLine("Select algorithm, write the number \n");
