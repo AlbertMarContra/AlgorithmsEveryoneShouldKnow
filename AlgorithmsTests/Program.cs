@@ -9,10 +9,6 @@ namespace Algorithms
         {
             var selectedPoss = -1;
 
-            // Commit samm Main
-
-            // Branch One Again Other again
-
             // Menu
             Console.WriteLine("Select algorithm, write the number \n");
             Console.WriteLine("1 - Minimax Tic Tac Toe");
