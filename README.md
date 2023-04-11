@@ -1,4 +1,4 @@
-# Algorithms Everyone Should Know . feature 2 Again 2ft
+# Algorithms Everyone Should Know
 
 Basic and advanced algorithms that everyone should know
 
