@@ -6,4 +6,3 @@ Basic and advanced algorithms that everyone should know
  - Recursive
  - Sorting
  - Artificial Inteligence
- - mstr
